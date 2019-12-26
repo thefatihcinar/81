@@ -12,7 +12,6 @@ A HIGHLY EDUCATIONAL APP <br>
 All 81 cities are included. <br>
 In the database, there are MORE THAN 400 PLACES <br>
 %100 ONLINE
-
 <br>
 __Systems Used__: 
 + __Firebase Realtime Database__ <br>
