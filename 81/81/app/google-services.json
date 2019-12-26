@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28243696748",
+    "firebase_url": "https://seksen-bir.firebaseio.com",
+    "project_id": "seksen-bir",
+    "storage_bucket": "seksen-bir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28243696748:android:a77a9610d451f82dca4c49",
+        "android_client_info": {
+          "package_name": "com.example.user.a81"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28243696748-4hel3jcv99lmfn04jhlprkgff7lefvnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.a81",
+            "certificate_hash": "c326eedccf6bacdd2c61769ce31d367dc8759fb4"
+          }
+        },
+        {
+          "client_id": "28243696748-ikoda1v387lqts7grgifjpsi1kpb0n1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQponjbN5wbfZdPpYDAimjgCCi9NbkXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28243696748-ikoda1v387lqts7grgifjpsi1kpb0n1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
