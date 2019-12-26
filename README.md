@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="60" height="30"> 
 
 ### 81
-__Description__: "81" is an Android Game that I developed. All the tourist attractions, imporant places and histrocial places around all the 81 cities of Turkey are asked to the gamers and the gamers are expected to guess the city. <br>
+__Description__: "81" is an Android Game that I developed. All the tourist attractions, important places and historical places around all the 81 cities of Turkey are asked to the gamers and the gamers are expected to guess the city. <br>
 People enjoy playing a game at the same time, they learn awesome amount of imporant places of Turkey like Churches, Mosques, Palaces, Stadiums, Museums, Beaches around Turkey. <br>
 A HIGHLY EDUCATIONAL APP <br>
 All 81 cities are included. <br>
