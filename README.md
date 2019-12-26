@@ -36,7 +36,6 @@ __Systems Used__:
  Eğitici bir uygulama <br>
  veritabanında 400'DEN FAZLA MEKAN bulunmakta <br>
  TAMAMEN ONLINE 
-
  <br>
  __Kullanılan Sistemler__: 
 + __Firebase Realtime Database__ <br>
